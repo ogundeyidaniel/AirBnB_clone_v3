@@ -161,6 +161,7 @@ No known bugs at this time.
   Ogundeyi Daniel- [Github](https://github.com/ogundeyidaniel) / [Twitter](https://twitter.com/Ogundeyi01)
   
   Michael Yirdaw - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+  
   Chritian Mba   - [Github](https://github.com/KrizTech) 
 
 Second part of Airbnb: Joann Vuong
