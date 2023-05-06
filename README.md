@@ -162,7 +162,7 @@ No known bugs at this time.
   
   Michael Yirdaw - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
   
-  Chritian Mba   - [Github](https://github.com/KrizTech) / [Twitter](https://twitter.com/Kriz_Baba)
+  Christian Mba   - [Github](https://github.com/KrizTech) / [Twitter](https://twitter.com/Kriz_Baba)
 
 Second part of Airbnb: Joann Vuong
 ## License
